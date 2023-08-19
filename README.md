@@ -2,15 +2,17 @@
 
 ## Start
 
-### 1. Clone the repo or download zip
+### 1. Install git-lfs
 
-### 2. Install dependencies
+### 2. Clone the repo or download zip
+
+### 3. Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### 3. Start the app
+### 4. Start the app
 
 ```
 python app.py
