@@ -4,7 +4,7 @@
 
 ### 1. Install git-lfs
 
-### 2. Clone the repo or download zip
+### 2. Clone the repo
 
 ### 3. Install dependencies
 
