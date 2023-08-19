@@ -13,7 +13,7 @@ def text_classifier(text):
         else:
             return f"Negative Sentiment Score: {result['score']:.3f}"
 
-title = "BCT076's Nepali Sentiment"
+title = "Nepali Sentiment Analyzer"
 description = """
 This app is a demonstration of using a BERT model(NepBERTa) to classify sentiment of a Nepali Sentence.\n
 For more information please see the github repository at:
