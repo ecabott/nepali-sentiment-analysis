@@ -1,7 +1,7 @@
 import gradio as gr
 from transformers import pipeline
 
-pipe = pipeline("text-classification", model='model/old_model')
+pipe = pipeline("text-classification", model='model')
 
 def text_classifier(text):
     outputs = pipe(text)
